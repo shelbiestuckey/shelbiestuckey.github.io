@@ -1,0 +1,158 @@
+body {
+    padding: 0;
+    margin: 0;
+    display: grid;
+    background-color: darkslateblue;
+
+}
+
+.top {
+    display: grid;
+    background-color:plum;
+    width:1262px;
+    height:62px;
+
+}
+
+.topmenu {
+    display: grid;
+    width: 331px;
+    height: 37px;
+    background-color: pink;
+    margin-top: 71px;
+
+}
+
+.topphotobanner {
+    display: grid;
+    width: 1262px;
+    height: 385px;
+    background-color: powderblue;
+    margin-top: 10px;
+
+}
+
+.openingtext {
+    display: grid;
+    width: 776px;
+    height: 191px;
+    background-color: darkmagenta;
+    margin-top: 600px;
+    margin-left: 220px;
+
+
+}
+
+.leftcolumnimage {
+    display: grid;
+    width: 696px;
+    height: 502px;
+    background-color: pink;
+    margin-left: 40px;
+    margin-top: 150px;
+
+
+}
+
+.rightcolumntext {
+    display: grid;
+    width: 379px;
+    height: 502px;
+    background-color: antiquewhite;
+    margin-top: -502px;
+    margin-left: 792px;
+}
+
+.middlecolumnquote {
+    display: grid;
+    width: 776px;
+    height: 191px;
+    background-color: darkmagenta;
+    margin-top: 90px;
+    margin-left: 199px;
+
+}
+
+
+.rightcolumnimage {
+    display:grid;
+    width:744px;
+    height:502px;
+    background-color: floralwhite;
+    margin-left: 480px;
+    margin-top: 85px;
+    
+}
+
+.leftsidephoto {
+    display:grid;
+    width:379px;
+    height:502px;
+    background-color: pink;
+    margin-top: -502px;
+    margin-left: 40px;
+
+}
+
+.footerquote {
+    display: grid;
+    width: 776px;
+    height: 191px;
+    background-color: darkmagenta;
+    margin-top: 90px;
+    margin-left: 239px;
+}
+
+.bannerimage {
+    display:grid;
+    width:1262px;
+    height: 668px;
+    background-color: powderblue;
+    margin-top: 40px;
+
+}
+
+.quoteboxone {
+    width: 371px;
+    height: 241px;
+    background-color: darkmagenta;
+    margin-left: 50px;
+    margin-top: -241px;
+  
+}
+
+.quoteboxtwo {
+    width: 371px;
+    height: 241px;
+    background-color: darkmagenta;
+    margin-left: 450px;
+    margin-top: -241px;
+  
+}
+
+.quoteboxthree {
+    width: 371px;
+    height: 241px;
+    background-color: darkmagenta;
+    margin-left: 850px;
+    margin-top: -241px;
+  
+}
+
+.leftcolumnfootertext {
+    display:grid;
+    width: 585px;
+    height: 333px;
+    background-color: darkmagenta;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.footerinformation {
+    display: grid;
+    width: 1171px;
+    height: 331px;
+    background-color: cadetblue;
+    margin-top: 80px;
+    margin-left: 45px;
+}
