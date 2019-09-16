@@ -1,0 +1,116 @@
+body {
+    padding: 0;
+    margin: 0;
+    display: grid;
+    background-color:skyblue;
+
+}
+
+.menu {
+    display: grid;
+    width: 962px;
+    height: 80px;
+    background-color: blanchedalmond;
+    margin-left: 175px;
+    margin-top: 25px;
+}
+
+
+
+.top {
+    display: grid;
+    width: 1325px;
+    height: 822px;
+    background-color: azure;
+    margin-top: 25px;
+}
+
+.maintext {
+    display:grid;
+    width: 945px;
+    height: 335px;
+    background-color: cadetblue;
+    margin-top: -600px;
+    margin-left: 180px;
+}
+
+.mainarticle {
+    display: grid;
+    width:945px;
+    height:405px;
+    background-color: cornflowerblue;
+    margin-top: -240px;
+    margin-left: 180px;
+}
+
+.mainarticletwo {
+    display: grid;
+    width: 945px;
+    height: 353px;
+    background-color: cornflowerblue;
+    margin-top: 25px;
+    margin-left: 180px;
+
+}
+
+.leftcolumn {
+    display: grid;
+    width: 399px;
+    height:452px;
+    background-color: darkgray;
+    margin-top: 25px;
+    margin-left: 235px;
+}
+
+.rightcolumn {
+    display: grid;
+    width: 399px;
+    height:452px;
+    background-color: darkgray;
+    margin-top: -452px;
+    margin-left: 670px;
+}
+
+.footerone {
+    display: grid;
+    width:176px;
+    height: 667px;
+    background-color: bisque;
+    margin-left: 200px;
+    margin-top: 125px;
+    margin-bottom: 25px;
+
+}
+
+.footertwo {
+    display: grid;
+    width:176px;
+    height: 667px;
+    background-color: bisque;
+    margin-left: 440px;
+    margin-top: -692px;
+    margin-bottom: 25px;
+
+}
+
+.footerthree {
+    display: grid;
+    width:176px;
+    height: 667px;
+    background-color: bisque;
+    margin-left: 680px;
+    margin-top: -692px;
+    margin-bottom: 25px;
+
+}
+
+.footerfour {
+    display: grid;
+    width:176px;
+    height: 667px;
+    background-color: bisque;
+    margin-left: 920px;
+    margin-top: -692px;
+    margin-bottom: 25px;
+
+}
